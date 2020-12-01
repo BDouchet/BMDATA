@@ -39,3 +39,11 @@ A Basic NN to predict the sentiment of a movie review. The subject approached ar
 * Creation of a dictionnary and one-hot encoding of texts
 * Creation and Training of a MLP
 * Visualisation of the predictions
+
+## TPEmotion
+
+Sentiment classification of a face. The subject approached are :
+* Image processing
+* Classification : MLP and CNN
+* Video Capture on Colab
+* Comparison between landmarks and face to predict sentiment
